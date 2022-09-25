@@ -26,8 +26,8 @@ public class MaxAndMinArray {
 			int a[] = {2,12,-2,11,23};
 			MaxMinHold hold = findMaxMin(a);
 			System.out.println("Maximum "+hold.max);
-			System.out.println("--------------------");
 			System.out.println("Minimum "+hold.min);
+                  System.out.println("--------------------");
 			
 	}
 	
